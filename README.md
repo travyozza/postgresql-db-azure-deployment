@@ -3,4 +3,6 @@
 ## Description
 
 ## Implementation
-### Creating a PostgreSQL DB using Azure Database for PostgreSQL
+### 1. Creating a PostgreSQL DB using Azure Database for PostgreSQL
+
+### 2. Connecting to database via cli
