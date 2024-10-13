@@ -1,2 +1,6 @@
-# postgresql-db-azure-deployment
-PostgreSQL database deployment with knowledge transfer to on-premises DBAs team using Microsoft Azure Database for PostgreSQL Servers.
+# PostgreSQL database deployment in Azure
+
+## Description
+
+## Implementation
+### Creating a PostgreSQL DB using Azure Database for PostgreSQL
